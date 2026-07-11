@@ -16,6 +16,12 @@ from recommender import generate_recommendations, clean_users, clean_organizatio
 st.set_page_config(page_title="AI Volunteer & Internship Matcher", layout="wide")
 db.init_db()
 
+import os
+if not os.path.exists("data/platform.db") or os.path.getsize("data/platform.db") == 0:
+    db.seed_from_csv()
+
+
+
 # ---------------------------------------------------------------
 # Sidebar navigation
 # ---------------------------------------------------------------
