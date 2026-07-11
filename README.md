@@ -28,7 +28,25 @@ python database.py
 streamlit run app.py
 ```
 
-Open the URL Streamlit prints (usually http://localhost:8501).
+## 🌐 Live Demo
+
+https://skillbridgeai01.streamlit.app/
+
+## Run Locally
+
+Install the dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the app:
+
+```bash
+streamlit run app.py
+```
+
+If running locally, open the URL Streamlit prints (usually http://localhost:8501).
 
 ## How the matching engine works
 
