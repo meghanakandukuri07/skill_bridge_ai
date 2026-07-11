@@ -1,0 +1,81 @@
+org_id,org_name,role,required_skills,domain,location,mode,duration_weeks,eligibility,min_experience,openings,stipend,deadline
+O0001,Organization_1,Finance Fellow,"Excel, Web Development",Design,Pune,Remote,8,High School,Intermediate,7,2000,2026-08-25
+O0002,Organization_2,Marketing Volunteer,"Public Speaking, Video Editing",Marketing,Mumbai,On-site,4,High School,Intermediate,5,2000,2026-09-10
+O0003,Organization_3,Research Fellow,"Content Writing, Research, SQL, Video Editing",Marketing,Mumbai,Hybrid,8,Undergraduate,Intermediate,3,8000,2026-09-04
+O0004,Organization_4,Finance Fellow,"C++, JavaScript, Photography, Project Management, React",Healthcare,Remote,On-site,24,Postgraduate,Beginner,10,0,2026-09-30
+O0005,Organization_5,Research Intern,"Graphic Design, Java, Web Development",Design,Bengaluru,Hybrid,8,PhD,Beginner,9,8000,2026-07-22
+O0006,Organization_6,Environment Fellow,"C++, Data Analysis, Data Visualization, Fundraising, Photography",Social Work,Hyderabad,On-site,16,Postgraduate,Beginner,4,15000,2026-07-22
+O0007,Organization_7,Finance Volunteer,"C++, Data Analysis",Healthcare,Remote,Remote,4,Postgraduate,Intermediate,3,2000,2026-07-24
+O0008,Organization_8,Finance Volunteer,"C++, Fundraising, Machine Learning, Photography, Teaching",Environment,Pune,Hybrid,4,Undergraduate,Experienced,7,15000,2026-10-05
+O0009,Organization_9,Technology Intern,"Content Writing, Fundraising",Research,Kolkata,Hybrid,24,PhD,Beginner,4,8000,2026-07-31
+O0010,Organization_10,Social Work Intern,"Data Analysis, Photography",Finance,Hyderabad,Remote,8,Undergraduate,Beginner,2,15000,2026-08-28
+O0011,Organization_11,Community Development Fellow,"First Aid, React",Education,Kolkata,On-site,16,Undergraduate,Experienced,4,0,2026-07-19
+O0012,Organization_12,Social Work Intern,"Data Visualization, Graphic Design, Photography, Project Management",Technology,Chennai,Hybrid,8,Undergraduate,Intermediate,5,5000,2026-08-01
+O0013,Organization_13,Community Development Fellow,"Community Outreach, Photography, Video Editing",Research,Remote,Hybrid,4,Postgraduate,Experienced,7,15000,2026-07-22
+O0014,Organization_14,Finance Volunteer,"Content Writing, Teaching, Web Development",Research,Remote,Hybrid,8,Undergraduate,Intermediate,3,8000,2026-08-24
+O0015,Organization_15,Finance Volunteer,"Public Speaking, React, Teaching",Technology,Pune,Hybrid,4,PhD,Intermediate,2,15000,2026-07-22
+O0016,Organization_16,Social Work Volunteer,"JavaScript, Machine Learning",Community Development,Mumbai,Remote,16,Undergraduate,Intermediate,5,0,2026-08-08
+O0017,Organization_17,Healthcare Fellow,"JavaScript, Project Management, React, Research, Teaching",Technology,Pune,Remote,12,PhD,Intermediate,9,5000,2026-08-11
+O0018,Organization_18,Marketing Fellow,"Event Management, First Aid, Fundraising, Graphic Design, SQL",Technology,Pune,On-site,12,PhD,Beginner,10,2000,2026-08-23
+O0019,Organization_19,Social Work Fellow,"Content Writing, Excel, Graphic Design, JavaScript, React",Finance,Mumbai,Remote,16,Postgraduate,Intermediate,8,8000,2026-08-02
+O0020,Organization_20,Marketing Intern,"C++, Event Management, First Aid",Environment,Hyderabad,Remote,24,High School,Beginner,1,0,2026-09-11
+O0021,Organization_21,Technology Intern,"Java, JavaScript, Python",Design,Pune,Remote,4,PhD,Experienced,8,0,2026-09-05
+O0022,Organization_22,Research Volunteer,"Java, Python",Social Work,Chennai,Hybrid,4,PhD,Beginner,2,0,2026-07-15
+O0023,Organization_23,Technology Intern,"Machine Learning, Public Speaking, Social Media Marketing, Teaching",Marketing,Kolkata,Remote,16,Undergraduate,Experienced,4,5000,2026-09-20
+O0024,Organization_24,Education Intern,"C++, Data Analysis, Event Management, Teaching, Video Editing",Education,Delhi,Hybrid,4,PhD,Intermediate,6,15000,2026-07-25
+O0025,Organization_25,Education Intern,"Data Visualization, Event Management, Research",Social Work,Hyderabad,Hybrid,4,Postgraduate,Experienced,10,0,2026-07-27
+O0026,Organization_26,Education Intern,"Machine Learning, Research, Teaching",Social Work,Delhi,On-site,24,Undergraduate,Experienced,7,15000,2026-08-06
+O0027,Organization_27,Environment Fellow,"First Aid, Java",Marketing,Hyderabad,On-site,4,PhD,Beginner,2,5000,2026-08-26
+O0028,Organization_28,Community Development Volunteer,"Fundraising, Public Speaking, Python, Video Editing",Design,Mumbai,Hybrid,12,PhD,Intermediate,3,15000,2026-09-30
+O0029,Organization_29,Healthcare Fellow,"Machine Learning, Public Speaking, React, Research",Environment,Kolkata,On-site,8,PhD,Intermediate,6,0,2026-10-07
+O0030,Organization_30,Social Work Volunteer,"Excel, Machine Learning, Public Speaking, SQL",Environment,Kolkata,Remote,16,PhD,Beginner,1,0,2026-07-26
+O0031,Organization_31,Healthcare Fellow,"Community Outreach, Content Writing, Python, Teaching",Finance,Bengaluru,Hybrid,24,Undergraduate,Experienced,9,2000,2026-08-29
+O0032,Organization_32,Environment Volunteer,"Event Management, Excel, Machine Learning, Public Speaking",Environment,Kolkata,Remote,12,PhD,Intermediate,8,0,2026-09-01
+O0033,Organization_33,Technology Fellow,"Excel, Fundraising, JavaScript, Project Management, SQL",Social Work,Hyderabad,On-site,16,Postgraduate,Experienced,7,5000,2026-08-30
+O0034,Organization_34,Finance Fellow,"Content Writing, Graphic Design, Project Management",Technology,Remote,On-site,12,Undergraduate,Intermediate,6,5000,2026-09-09
+O0035,Organization_35,Community Development Intern,"Public Speaking, SQL, Social Media Marketing, Teaching",Community Development,Mumbai,On-site,24,Undergraduate,Experienced,9,0,2026-10-04
+O0036,Organization_36,Technology Volunteer,"Community Outreach, Machine Learning, Photography, Research",Design,Delhi,Hybrid,12,Undergraduate,Intermediate,3,8000,2026-09-12
+O0037,Organization_37,Design Fellow,"C++, Data Visualization, Java, Research, Teaching",Finance,Hyderabad,Remote,12,High School,Beginner,4,5000,2026-09-01
+O0038,Organization_38,Community Development Intern,"Community Outreach, Graphic Design, Public Speaking, Python, SQL",Technology,Mumbai,Hybrid,16,Postgraduate,Intermediate,8,15000,2026-08-05
+O0039,Organization_39,Marketing Intern,"Community Outreach, Content Writing, First Aid, Machine Learning, SQL",Environment,Pune,Remote,12,Postgraduate,Intermediate,4,15000,2026-09-17
+O0040,Organization_40,Design Intern,"First Aid, Fundraising, Graphic Design, Machine Learning, Research",Social Work,Hyderabad,On-site,4,High School,Intermediate,2,2000,2026-09-14
+O0041,Organization_41,Environment Fellow,"C++, Community Outreach, Graphic Design",Design,Mumbai,Hybrid,16,Undergraduate,Beginner,7,8000,2026-08-15
+O0042,Organization_42,Community Development Intern,"Community Outreach, Data Visualization, Python, Research, Teaching",Technology,Mumbai,Hybrid,12,High School,Experienced,2,15000,2026-07-18
+O0043,Organization_43,Marketing Intern,"Event Management, Java, Photography, Public Speaking, SQL",Marketing,Kolkata,On-site,24,PhD,Experienced,2,5000,2026-08-07
+O0044,Organization_44,Community Development Intern,"Data Visualization, Machine Learning, Photography, Project Management",Environment,Pune,On-site,4,Undergraduate,Intermediate,2,2000,2026-08-29
+O0045,Organization_45,Environment Fellow,"Community Outreach, Data Visualization, Excel, Project Management, Teaching",Finance,Delhi,Hybrid,16,Undergraduate,Experienced,3,8000,2026-08-31
+O0046,Organization_46,Environment Volunteer,"Data Analysis, Event Management, Project Management, Python, Social Media Marketing",Environment,Mumbai,Remote,16,PhD,Intermediate,8,8000,2026-08-20
+O0047,Organization_47,Environment Intern,"Content Writing, React",Education,Chennai,On-site,8,Postgraduate,Beginner,8,15000,2026-09-09
+O0048,Organization_48,Research Intern,"C++, Public Speaking",Marketing,Hyderabad,Hybrid,16,Undergraduate,Intermediate,2,2000,2026-09-16
+O0049,Organization_49,Design Volunteer,"Fundraising, Machine Learning, React, SQL",Technology,Pune,Remote,24,PhD,Beginner,10,2000,2026-08-22
+O0050,Organization_50,Education Fellow,"C++, Project Management, Public Speaking, Web Development",Marketing,Chennai,Remote,12,Postgraduate,Experienced,2,2000,2026-08-10
+O0051,Organization_51,Social Work Fellow,"Excel, React, Research",Environment,Pune,Remote,8,PhD,Intermediate,3,15000,2026-09-05
+O0052,Organization_52,Finance Volunteer,"First Aid, Java, Machine Learning, Teaching, Video Editing",Social Work,Pune,On-site,16,PhD,Intermediate,10,0,2026-10-03
+O0053,Organization_53,Design Fellow,"C++, JavaScript, Machine Learning, Teaching",Finance,Mumbai,Hybrid,16,Postgraduate,Intermediate,5,5000,2026-07-26
+O0054,Organization_54,Environment Fellow,"Data Analysis, Graphic Design, Photography, SQL, Video Editing",Design,Hyderabad,Hybrid,4,Undergraduate,Intermediate,8,0,2026-09-23
+O0055,Organization_55,Environment Fellow,"Machine Learning, Public Speaking, Video Editing, Web Development",Marketing,Chennai,Remote,4,Postgraduate,Experienced,3,0,2026-09-07
+O0056,Organization_56,Social Work Fellow,"Community Outreach, Machine Learning, Video Editing",Healthcare,Hyderabad,Hybrid,8,PhD,Beginner,3,15000,2026-09-03
+O0057,Organization_57,Design Intern,"Graphic Design, Research",Healthcare,Kolkata,Hybrid,8,PhD,Beginner,4,8000,2026-08-12
+O0058,Organization_58,Healthcare Intern,"Content Writing, Excel, Social Media Marketing, Teaching",Environment,Delhi,Hybrid,4,High School,Experienced,3,8000,2026-07-26
+O0059,Organization_59,Technology Fellow,"Community Outreach, Photography, Project Management",Design,Mumbai,Hybrid,4,High School,Beginner,2,15000,2026-08-28
+O0060,Organization_60,Finance Volunteer,"Public Speaking, React, Video Editing",Healthcare,Mumbai,On-site,24,Postgraduate,Experienced,1,5000,2026-09-02
+O0061,Organization_61,Community Development Fellow,"Content Writing, First Aid, Teaching",Education,Mumbai,Hybrid,16,PhD,Beginner,4,8000,2026-08-10
+O0062,Organization_62,Healthcare Fellow,"Graphic Design, Social Media Marketing",Environment,Kolkata,Hybrid,24,PhD,Intermediate,9,2000,2026-10-04
+O0063,Organization_63,Education Fellow,"Public Speaking, Python",Technology,Hyderabad,Remote,4,PhD,Experienced,5,15000,2026-09-13
+O0064,Organization_64,Finance Intern,"Content Writing, Machine Learning, Public Speaking",Healthcare,Mumbai,On-site,8,Postgraduate,Intermediate,10,0,2026-09-06
+O0065,Organization_65,Finance Fellow,"Data Analysis, Machine Learning, React",Finance,Bengaluru,Hybrid,16,High School,Intermediate,3,0,2026-08-23
+O0066,Organization_66,Environment Fellow,"Event Management, Web Development",Marketing,Chennai,Hybrid,8,Postgraduate,Beginner,5,0,2026-07-16
+O0067,Organization_67,Finance Volunteer,"Public Speaking, Research",Community Development,Bengaluru,On-site,16,PhD,Experienced,6,0,2026-07-18
+O0068,Organization_68,Environment Volunteer,"Data Visualization, Public Speaking, SQL",Healthcare,Mumbai,Hybrid,24,High School,Beginner,1,2000,2026-09-16
+O0069,Organization_69,Marketing Volunteer,"C++, Data Analysis, Web Development",Finance,Mumbai,On-site,12,Undergraduate,Intermediate,6,5000,2026-07-20
+O0070,Organization_70,Marketing Intern,"React, Web Development",Research,Hyderabad,Hybrid,16,High School,Intermediate,5,5000,2026-07-24
+O0071,Organization_71,Research Volunteer,"JavaScript, Social Media Marketing",Social Work,Chennai,Remote,24,Undergraduate,Intermediate,6,15000,2026-08-25
+O0072,Organization_72,Research Intern,"Community Outreach, Python, React",Research,Pune,Remote,4,Postgraduate,Beginner,7,5000,2026-09-16
+O0073,Organization_73,Research Intern,"Data Analysis, Event Management, Excel, Public Speaking, Research",Healthcare,Hyderabad,Remote,8,PhD,Experienced,6,8000,2026-07-28
+O0074,Organization_74,Healthcare Fellow,"Machine Learning, Teaching, Video Editing",Community Development,Hyderabad,Hybrid,16,Undergraduate,Beginner,5,5000,2026-07-25
+O0075,Organization_75,Marketing Volunteer,"Excel, JavaScript, Machine Learning, Public Speaking, React",Community Development,Bengaluru,On-site,8,High School,Beginner,8,8000,2026-08-24
+O0076,Organization_76,Healthcare Fellow,"Content Writing, Fundraising, JavaScript, Public Speaking",Healthcare,Bengaluru,On-site,8,Postgraduate,Experienced,10,0,2026-08-24
+O0077,Organization_77,Environment Intern,"Java, Social Media Marketing, Teaching",Education,Chennai,On-site,12,Undergraduate,Beginner,7,8000,2026-08-11
+O0078,Organization_78,Research Intern,"Fundraising, SQL",Environment,Bengaluru,Hybrid,4,High School,Beginner,3,2000,2026-09-24
+O0079,Organization_79,Healthcare Fellow,"JavaScript, Machine Learning, Python, Video Editing",Design,Delhi,On-site,4,Postgraduate,Beginner,1,8000,2026-09-04
+O0080,Organization_80,Community Development Volunteer,"Community Outreach, Event Management, Photography, Python, Teaching",Environment,Pune,Remote,8,Undergraduate,Intermediate,5,8000,2026-07-21
